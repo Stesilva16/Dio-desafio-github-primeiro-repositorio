@@ -17,6 +17,6 @@ git checkout <nomeDaBranch>: alterna para a branch especificada
 Link importante com Dicas do passo a passo:
 https://medium.com/@andradegabriela20/o-que-%C3%A9-git-git-bash-e-comandos-b%C3%A1sicos-94a53de6d376
 
-Link para a introdução do Mackdow (video no youtube):
+Link para a introdução do Markdow (video no youtube):
 https://www.youtube.com/watch?v=vZaldeUg6D0&t=468s 
 https://www.youtube.com/watch?v=gFJfyHRKaE0
